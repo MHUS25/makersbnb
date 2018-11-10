@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/toddpla/makersbnb.svg?branch=master)](https://travis-ci.org/toddpla/makersbnb)
 
+#### [App in Production](https://makers-bnb-oct.herokuapp.com/)
+
 Week 6 group challenge at Makers Academy: Build a clone of AirBnB, a web application that allows users to list available spaces and make bookings.
 
 Team:
@@ -32,8 +34,6 @@ Muna Hussein, Reka Pap, Naomi Bid & Todd Langford-Archer
 * Review each other’s PRs before merging
 * Test driven development
 
-
-#### ------------------------------- [App in Production](https://makers-bnb-oct.herokuapp.com/) -------------------------------
 
 
 ## Wikis
