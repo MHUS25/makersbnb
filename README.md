@@ -33,13 +33,13 @@ Muna Hussein, Reka Pap, Naomi Bid & Todd Langford-Archer
 * Test driven development
 
 
-### ---------------------- [App in Production](https://makers-bnb-oct.herokuapp.com/) ----------------------
+#### ------------------------------- [App in Production](https://makers-bnb-oct.herokuapp.com/) -------------------------------
 
 
 ## Wikis
 
-### [Learning Journey](https://github.com/toddpla/makersbnb/wiki/Team-Learning-Journey)
-### [User Stories](https://github.com/toddpla/makersbnb/wiki/User-Stories)
-### [Installation and Testing Locally](https://github.com/toddpla/makersbnb/wiki/Installation-and-Testing-Locally)
-### [Deployment Process](https://github.com/toddpla/makersbnb/wiki/Deployment-process)
-### [Project Contribution](https://github.com/toddpla/makersbnb/wiki/Project-Contribution)
+#### [Learning Journey](https://github.com/toddpla/makersbnb/wiki/Team-Learning-Journey)
+#### [User Stories](https://github.com/toddpla/makersbnb/wiki/User-Stories)
+#### [Installation and Testing Locally](https://github.com/toddpla/makersbnb/wiki/Installation-and-Testing-Locally)
+#### [Deployment Process](https://github.com/toddpla/makersbnb/wiki/Deployment-process)
+#### [Project Contribution](https://github.com/toddpla/makersbnb/wiki/Project-Contribution)
